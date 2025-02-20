@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MBR20100CT)(type KiCad)(uri "F:/Usuario Elias/Documents/00 - FIUBA/01 - En Curso/Circuitos 2/Proyecto - Grupo 5/PCB/TP-PCB/MBR20100CT")(options "")(descr ""))
+  (lib (name MBR20100CS2TR-G1)(type KiCad)(uri ${KIPRJMOD}/MBR20100CS2TR-G1)(options "")(descr ""))
+  (lib (name "Nuestra Libreria")(type KiCad)(uri "${KIPRJMOD}/Nuestra Libreria.pretty")(options "")(descr ""))
+)
